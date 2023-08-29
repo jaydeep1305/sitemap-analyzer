@@ -1,0 +1,6 @@
+requests
+loguru
+bs4
+lxml
+pandas
+streamlit
